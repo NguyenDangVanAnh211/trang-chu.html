@@ -3,10 +3,11 @@
   <head>
     <meta charset="UTF-8">
     <title>Trang chủ</title>
+    <link href="images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   </head>
   <body>
     <header>
-      <p>Tiêu đề đầu trang </p>
+      <p>Tiêu đề đầu trang</p>
         <nav>
           <p>Thanh điều hướng</p>
         </nav>
