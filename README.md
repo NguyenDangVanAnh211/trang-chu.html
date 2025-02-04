@@ -1,4 +1,3 @@
-# trang-chu.html
 <!doctype html>
 <html>
   <head>
