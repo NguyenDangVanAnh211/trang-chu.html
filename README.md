@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Trang chủ</title>
-    <link href="images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <link href="images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">logo.png</link>
   </head>
   <body>
     <header>
